@@ -3,8 +3,8 @@
 Welcome! Here are my few humble works that I can share with you. Every day I learn more and more. Here you will see.
 
 > I am the cause of my own insomnia
+> ![EVANGELION](https://giphy.com/gifs/evangelion-shinji-ikari-mangacap-dcEhBpNle8ikw)
 
 ## Constacts
 ![Telegram](https://img.shields.io/badge/tg-%40mikitazvezd-lightgrey)
-____
 ![GIF_GIRL](https://c.tenor.com/_wmzDrSE3l0AAAAC/dark-japan.gif)
