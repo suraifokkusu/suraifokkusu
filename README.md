@@ -1,4 +1,4 @@
-I'm a Junior Developer with a strong focus on backend development. I enjoy solving complex tasks, participating in hackathons, and quickly learning new technologies. Open to new challenges and ready to collaborate with teams to achieve common goals.
+I'm a Junior Developer with a strong focus on backend development. I enjoy solving complex tasks, participating in hackathons, and quickly learning new technologies. Open to new challenges and ready to collaborate with teams to achieve common goals. I believe that power is in Open Source :fire:
 
 ## 🛠 Skills and Technologies:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
